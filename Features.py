@@ -89,4 +89,4 @@ class Identity(Feature):
 
   def evaluate(self, x1, x2):
     return 1
-#add some comments
+#maybe i should not add fix
